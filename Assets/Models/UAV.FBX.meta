@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: dfbff920bf92c5d44b0391b774c296ea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ala_de
+    100002: ala_iz
+    100004: eje01
+    100006: FLIR
+    100008: helice
+    100010: PTDEL
+    100012: SOP_FLIR
+    100014: tren_de
+    100016: tren_del
+    100018: tren_iz
+    100020: //RootNode
+    100022: vertail
+    100024: whel_de
+    100026: whel_del
+    100028: whel_iz
+    400000: ala_de
+    400002: ala_iz
+    400004: eje01
+    400006: FLIR
+    400008: helice
+    400010: PTDEL
+    400012: SOP_FLIR
+    400014: tren_de
+    400016: tren_del
+    400018: tren_iz
+    400020: //RootNode
+    400022: vertail
+    400024: whel_de
+    400026: whel_del
+    400028: whel_iz
+    2100000: 01 - Default
+    2300000: ala_de
+    2300002: ala_iz
+    2300004: eje01
+    2300006: FLIR
+    2300008: helice
+    2300010: PTDEL
+    2300012: SOP_FLIR
+    2300014: tren_de
+    2300016: tren_del
+    2300018: tren_iz
+    2300020: //RootNode
+    2300022: vertail
+    2300024: whel_de
+    2300026: whel_del
+    2300028: whel_iz
+    3300000: ala_de
+    3300002: ala_iz
+    3300004: eje01
+    3300006: FLIR
+    3300008: helice
+    3300010: PTDEL
+    3300012: SOP_FLIR
+    3300014: tren_de
+    3300016: tren_del
+    3300018: tren_iz
+    3300020: //RootNode
+    3300022: vertail
+    3300024: whel_de
+    3300026: whel_del
+    3300028: whel_iz
+    4300000: fuselage
+    4300002: vertail
+    4300004: ala_de
+    4300006: ala_iz
+    4300008: SOP_FLIR
+    4300010: FLIR
+    4300012: tren_del
+    4300014: whel_del
+    4300016: PTDEL
+    4300018: tren_iz
+    4300020: whel_iz
+    4300022: tren_de
+    4300024: whel_de
+    4300026: eje01
+    4300028: helice
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
